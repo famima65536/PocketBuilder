@@ -1,0 +1,5 @@
+name: PocketBuilder
+main: famima65536\PocketBuilder\PocketBuilder
+author: famima65536
+version: 1.0.0
+api: [2.0.0, 3.0.0, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
